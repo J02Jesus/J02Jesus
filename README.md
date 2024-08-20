@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Aluno de Análise e Desenvolvimento de Sistemas<br>Estudando Python, Java e linguagem C</p>
+<p align="left">📚 Aluno de Análise e Desenvolvimento de Sistemas<br>📖 Estudando Python, Java e linguagem C</p>
 
 ###
 
